@@ -26,7 +26,6 @@
       "photo_url_small" : "https://s3.amazonaws.com/sq-mobile-interview/photos/5095a907-abc9-4734-8d1e-0eeb2506bfa8/small.jpg",
       "photo_url_large" : "https://s3.amazonaws.com/sq-mobile-interview/photos/5095a907-abc9-4734-8d1e-0eeb2506bfa8/large.jpg",
 
-      "team" : "Public Web & Marketing",
       "employee_type" : "PART_TIME"
     },
 
@@ -35,7 +34,6 @@
 
       "full_name" : "Richard Stein",
       "phone_number" : "5557223332",
-      "email_address" : "rstein.demo@squareup.com",
       "biography" : "Product manager for the Point of sale app!",
 
       "photo_url_small" : "https://s3.amazonaws.com/sq-mobile-interview/photos/43ed39b3-fbc0-4eb8-8ed3-6a8de479a52a/small.jpg",
@@ -108,7 +106,6 @@
     {
       "uuid" : "8623ba77-9d6a-4bcd-bd91-e19ae2c9dba2",
 
-      "full_name" : "Ryan Gehani",
       "phone_number" : "5554047710",
       "email_address" : "rgehani.demo@squareup.com",
       "biography" : "Product manager for Invoices!",
@@ -136,9 +133,6 @@
     },
 
     {
-      "uuid" : "7fb13023-d013-41ac-84f1-e554890ccb32",
-
-      "full_name" : "Tim Nakamura",
       "phone_number" : "5557510409",
       "email_address" : "tnakamura.demo@squareup.com",
       "biography" : "Hardware packaging designer on the hardware team, working from LA.",
@@ -151,7 +145,7 @@
     },
 
     {
-      "uuid" : "d8265dcd-1914-4f93-8068-07f5426f0866",
+      "uuid" : "ca020d09-76c6-44a5-ada9-8459d281c317",
 
       "full_name" : "Jack Dorsey",
       "phone_number" : "5554544932",
