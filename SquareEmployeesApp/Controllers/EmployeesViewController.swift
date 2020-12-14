@@ -55,7 +55,7 @@ class EmployeesViewController: UIViewController {
     
     //MARK: Methods
     func loadFromNewtork() {
-        self.employeeViewModel.fetchData {
+        employeeViewModel.fetchData {
             guard self.employeeViewModel.getNetworkError() == nil else {
                 DispatchQueue.main.async {
                     self.display(error: self.employeeViewModel.getNetworkError()?.rawValue ?? "")
