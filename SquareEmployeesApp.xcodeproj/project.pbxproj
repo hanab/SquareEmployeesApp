@@ -176,7 +176,7 @@
 				1A6B238B2585109200043735 /* Helpers */,
 				1A2BEA872582A89B0046EE8C /* Controllers */,
 				1A2BEA862582A8690046EE8C /* Resources */,
-				1AAA03DC2581A22F00F75026 /* Extnesions */,
+				1AAA03DC2581A22F00F75026 /* Extensions */,
 				1AAA03D92581A0F300F75026 /* Views */,
 				1A744B75258152CB00CEB878 /* Network */,
 				1A744B72258150AA00CEB878 /* Models */,
@@ -229,13 +229,13 @@
 			name = Views;
 			sourceTree = "<group>";
 		};
-		1AAA03DC2581A22F00F75026 /* Extnesions */ = {
+		1AAA03DC2581A22F00F75026 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
 				1A2BEA8125828FD90046EE8C /* Obj-C */,
 				1AAA03DD2581A26200F75026 /* UIImageView+LoadImage.swift */,
 			);
-			path = Extnesions;
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
